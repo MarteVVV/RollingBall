@@ -1,4 +1,4 @@
-# 🕹️ [RollingBall](https://martevvv.itch.io/mudi-colorsrain)
+# 🕹️ [RollingBall]
 
 <img src="./public/RollingBall.gif" width="478" height="260">
 
